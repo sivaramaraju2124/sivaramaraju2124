@@ -15,7 +15,7 @@
 </div>
 <div align="center" style="margin-bottom: 30px;">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sivaramaraju2124&color=00cf00" />
-  <img src="https://komarev.com/ghpvc/?username=Swami-Siva-Rama-Raju&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sivaramaraju2124&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 ---
@@ -90,20 +90,20 @@
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Swami-Siva-Rama-Raju&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swami-Siva-Rama-Raju&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sivaramaraju2124&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaramaraju2124&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swami-Siva-Rama-Raju&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivaramaraju2124&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Swami-Siva-Rama-Raju&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sivaramaraju2124&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swami-Siva-Rama-Raju&theme=redical&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivaramaraju2124&theme=redical&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&hide_border=true" />
 </div>
 
 ---
