@@ -101,8 +101,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" width="50" />
-  <b>Thanks for visiting my profile! Have a great day!</b>
+  <b><h2>Thanks for visiting my profile! Have a great day!</h2></b>
 </div>
 
 <div align="center">
