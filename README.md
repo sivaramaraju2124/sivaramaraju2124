@@ -64,7 +64,6 @@
 
 
 </div>
----
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Current Projects**
 
@@ -104,7 +103,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" width="50" />
   <b>Thanks for visiting my profile! Have a great day!</b>
-  <img src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" width="50" />
 </div>
 
 <div align="center">
