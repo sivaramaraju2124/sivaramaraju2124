@@ -49,10 +49,10 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" />
-<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
 
 ### 🗄️ Databases
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 ### 🛠️ Tools & Platforms
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -73,7 +73,7 @@
 |------------------------------|------------------------------------|---------------------------------|
 | 🤖 **VidyaAI**                | AI-powered educational assistant   | Python, TensorFlow, NLP          |
 | 💻 **CodeForge**              | AI-powered code editor              | Python, Streamlit, Groq API      |
-| 🏦 **Bank Loan Approval Prediction** | ML model to predict loan approvals | Python, scikit-learn, Pandas     |
+| 🏦 **LoanEase** | ML model to predict loan approvals | Python, scikit-learn, Pandas     |
 </div>
 
 ---
