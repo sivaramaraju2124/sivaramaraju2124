@@ -1,17 +1,5 @@
 # <div align="center">🚀 Welcome to My Digital Universe 🚀</div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" />
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" />
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50" />
-</div>
-<div align="center" style="margin-bottom: 30px;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sivaramaraju2124&color=00cf00" />
-  <img src="https://komarev.com/ghpvc/?username=sivaramaraju2124&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
----
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Hey there, I'm Swami Siva Rama Raju!
