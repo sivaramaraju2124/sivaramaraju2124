@@ -1,10 +1,6 @@
 # <div align="center">🚀 Welcome to My Digital Universe 🚀</div>
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
-
-<div align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" />
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" />
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50" />
